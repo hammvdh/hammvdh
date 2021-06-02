@@ -8,21 +8,6 @@
 - ⚡ Fun fact: I love to draw & play video games.
 
 
-
-### What i'm currently listening to.. 🎧
-
-[<img src="https://now-playing-hammvdh.vercel.app/api/spotify-playing" alt="Hammadh's Spotify Playing" width="350" />](https://open.spotify.com/user/j6wzpddkze8j5uy74818ofqiw)
-
-### Check out my recently developed website!
-https://hammvdh.github.io/
-
-
-<details>
-  <summary>:zap: My GitHub Stats</summary>
-  <img align="left" alt="hammvdh's GitHub Stats" src="https://github-readme-stats.hammvdh.vercel.app/api?username=hammvdh&show_icons=true&hide_border=true" />
-
-</details>
-
 ## Want to contact me? 
 
 You can send me an email to contactelitepsd@gmail.com or through a direct message from one of the following social media platforms..
