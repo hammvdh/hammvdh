@@ -4,7 +4,7 @@
 
 - 🌱 I’m still quite new to the field and still learning about the different technologies used 😅
 - 👯 I’m definitely interested in collaborating with other designers & developers
-- 🥅 2021 Goals: To become quite knowledgeble in Fullstack Development and learn alot of new technologies
+- 🥅 2022 Goals: To become quite knowledgeble in Fullstack Development and learn alot of new technologies
 - ⚡ Fun fact: I love to draw & play video games.
 
 
