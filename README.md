@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Hammadh
+# Hi there, I'm Hammadh👋
 
 ## Software Developer & Visual Designer
 
