@@ -9,7 +9,7 @@
 
 
 ### Reach out! 
-You can send me an email to contactelitepsd@gmail.com or through a direct message from one of the following social media platforms..
+You can send me an email to hammadharquil@gmail.com or through a direct message from one of the following social media platforms..
 
 ### Stay Connected
 - Twitter: https://twitter.com/elitepsd
